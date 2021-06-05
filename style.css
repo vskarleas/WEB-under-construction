@@ -6,6 +6,10 @@ body {
   font-family:Roboto;
 }
 
+a {
+  color: #bababf;
+}
+
 h1{
   font-weight:100;
   font-size:27pt;
